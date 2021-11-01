@@ -40,6 +40,7 @@ The most meaningful differences between rap and non-rap songs were in the featur
 
 To perform a logistic regression to actually predict whether a song is rap or not, we performed a splitting of the data into a training and a test set. After the first logistic regression, we performed a stepwise selection, discarding one feature at a time with respect to its p-value. The remaining features were popularity, danceability, tempo, acousticness, duration_ms, valence, speechiness and instrumentalness.
 The plot of the ROC curve of the training set showed an AUC equal to 0.8996.
+
 ![Screenshot (164)](https://user-images.githubusercontent.com/93552186/139747180-ed09a1a3-1b57-4589-8419-8040c6900ddb.png)
 
 We went on with diagnostics and removed the extreme data with respect to the Cook distance and the standardized residuals. In this way, the results improved.
