@@ -29,6 +29,9 @@ From the Shapiro tests we can see that the data are not Normally distributed.
 ![Rplot01](https://user-images.githubusercontent.com/93552186/139745449-8df8519b-61df-4d96-9491-eeaa0663d64a.png)
 
 It is interesting to take a look at the evolution in time of the boxplots of the features of duration and speechiness:
+![Rplot02](https://user-images.githubusercontent.com/93552186/139749165-090264a8-7a36-4fc9-98b1-10e1908a654d.png)
+![Rplot03](https://user-images.githubusercontent.com/93552186/139749178-28c92530-2526-46e0-9167-23daba8b3bd5.png)
+
 
 
 To go on with the objective of this project, we had to collect more data, so we collected more than 10000 songs from Spotify's playlists based on different genres and from playlists created by musical magazines.
