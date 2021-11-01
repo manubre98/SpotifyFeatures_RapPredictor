@@ -1,5 +1,5 @@
-# SpotifyFeatures_RapPredictor
-Project in R for the "Inferential Statistics" course aimed at predicting if a song is Rap or not through its Spotify features
+# SpotifyFeatures_RapPredictor (June 2020)
+Project in R for the "Inferential Statistics" course in June 2020 aimed at predicting if a song is Rap or not through its Spotify features
 Evolution of the musical tastes in Italy.
 An analysis of the changes in the last 10 years of the yearly top 100 hits.
 
