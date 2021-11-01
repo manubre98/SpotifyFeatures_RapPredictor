@@ -25,9 +25,11 @@ Through the R package rspotify we extracted from the playlists of the top 100 so
 #### Exploratory data analysis
 
 From the Shapiro tests we can see that the data are not Normally distributed.
-It is interesting to take a look at the evolution in time of the boxplots of the features of duration and speechiness:
 
 ![Rplot01](https://user-images.githubusercontent.com/93552186/139745449-8df8519b-61df-4d96-9491-eeaa0663d64a.png)
+
+It is interesting to take a look at the evolution in time of the boxplots of the features of duration and speechiness:
+
 
 To go on with the objective of this project, we had to collect more data, so we collected more than 10000 songs from Spotify's playlists based on different genres and from playlists created by musical magazines.
 The most meaningful differences between rap and non-rap songs were in the features of speechiness, popularity and danceability, as we can see from the following boxplots (and also the Kruskal-Wallis test confirmed the differences):
